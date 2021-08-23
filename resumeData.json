@@ -1,0 +1,121 @@
+{
+  "main": {
+    "name":"Sathyakrishna T",
+    "description":"To pursue a challenging career and to be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization",
+    "image":"propic.jpg",
+    "bio":"Diligent Software Engineering student from VELLORE INSTITUTE OF TECHNOLOGY with proven research and communication skills. Interned at Infosys Technologies Private Limited and TrakInvest where I got exposed to technologies of a Full stack developer and the experience of working in the corporate world",
+    "contactmessage":"Contact Me",
+    "email": "sathyakrishnata@gmail.com",
+    "phone": "9487515052",
+    "github":"https://github.com/sathya4555",
+     
+    "address":{
+      "street":"5/295C,UKPN Nagar,Gandhi Nagar(post),Udumalpet",
+      "city":"Tiruppur",
+      "state":"TamilNadu",
+      "zip": "642154"
+    },
+   
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/sathya_4555",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/sathya-krishna-57614a173/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/sathya._.krishna",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/sathya4555",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I'm a tinkerer and am always interested in playing around with new technologies but these are the ones that have really won me over",
+    "education":[
+      {
+        "school":"VELLORE INSTITUTE OF TECHNOLOGY",
+        "degree":"M.Tech Intergrated Software Engineerng",
+        "graduated":"May 2021"
+       
+      },
+      {
+        "school":"SHREE SARASSWATHI VIDHYAAH MANDHEER",
+        "degree":"12th grade",
+        "graduated":"April 2016"
+      },
+      {
+        "school":"RIVERSIDE PUBLIC SCHOOL",
+        "degree":"10th grade",
+        "graduated":"April 2014"
+      }
+    ],
+    "work":[
+   
+      {
+        "company":"TrakInvest",
+        "title":"Full stack developer",
+        "years":"June 2017 -  Present"
+      },
+      {
+        "company":"Infosys Technologies Private Limited",
+        "title":"Intern",
+        "years":"Feb 2021 - May 2021"
+      }
+    ],
+    "skills":[
+      {
+        "name":"NodeJS",
+        "level":"90%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"90%"
+      },
+      {
+        "name":"NestJs",
+        "level":"94%"
+      },
+      {
+        "name":"PHP",
+        "level":"75%"
+      },
+      {
+        "name":"Angular",
+        "level":"60%"
+      },
+      {
+        "name":"PostGres",
+        "level":"87%"
+      },
+      {
+        "name":"RabbitMQ",
+        "level":"90%"
+      },
+      {
+        "name":"Java",
+        "level":"85%"
+      },
+      {
+        "name":"Bash scripting",
+        "level":"68%"
+      }
+      
+      
+    ]
+
+
+
+  }
+
+}
